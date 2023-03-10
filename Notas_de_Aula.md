@@ -98,7 +98,7 @@ SELECT * FROM cria_instrutor_falso();
 
 Retorno do SELECT:
 
-![Untitled](Notas%20de%20Aula%20-%20PostgreSQL%20Desenvolva%20com%20PL%20pgSQL%20e737230aea9a486ebc59fb765d7d4fe2/Untitled.png)
+![Untitled](https://github.com/RSAmanda/Alura_PostgreSQL_PLpgSQL/blob/a9620e1a4ee9d38dfce47bf18821c2d98843666f/Untitled.png)
 
 Criando uma função que retorna uma tabela:
 
@@ -217,7 +217,7 @@ $$ LANGUAGE plpgsql; -- definindo a linguagem
     
     - Utilização e saída da função
     
-    ![Untitled](Notas%20de%20Aula%20-%20PostgreSQL%20Desenvolva%20com%20PL%20pgSQL%20e737230aea9a486ebc59fb765d7d4fe2/Untitled%201.png)
+    ![Untitled](https://github.com/RSAmanda/Alura_PostgreSQL_PLpgSQL/blob/a9620e1a4ee9d38dfce47bf18821c2d98843666f/Untitled%201.png)
     
 - ELSEIF
     
