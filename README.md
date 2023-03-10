@@ -8,7 +8,13 @@ Repositório dedicado as notas de estudos e projeto do curso da Alura PostegreSQ
 
 # Notas de Aula
 
-[Notas de Aula - PostgreSQL: Desenvolva com PL/pgSQL](PostgreSQL%20Desenvolva%20com%20PL%20pgSQL%20f97e148491944fce8027d5c3642d348c/Notas%20de%20Aula%20-%20PostgreSQL%20Desenvolva%20com%20PL%20pgSQL%20e737230aea9a486ebc59fb765d7d4fe2.md)
+[Notas de Aula - PostgreSQL: Desenvolva com PL/pgSQL](https://github.com/RSAmanda/Alura_PostgreSQL_PLpgSQL/blob/bd2860946b6c05e7f1f06c9d0b1f1f9f98151af6/Notas_de_Aula.md)
+
+[Arquivo SQL - Aulas](https://github.com/RSAmanda/Alura_PostgreSQL_PLpgSQL/blob/bd2860946b6c05e7f1f06c9d0b1f1f9f98151af6/postgresql_plpgsql_Aulas.sql
+)
+
+[Arquivo SQL - Projeto](https://github.com/RSAmanda/Alura_PostgreSQL_PLpgSQL/blob/bd2860946b6c05e7f1f06c9d0b1f1f9f98151af6/postgresql_plpgsql_Projeto.sql
+)
 
 # Conteúdo por Aula
 
